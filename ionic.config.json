@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-Angular-BabylonJS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
