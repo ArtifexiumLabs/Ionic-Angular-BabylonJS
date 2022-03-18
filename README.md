@@ -6,6 +6,7 @@ Ionic Angular and BabylonJS template
 npm install -g @ionic/cli
 npm i
 
+# To run
 ionic serve
 
 # To add build targets
